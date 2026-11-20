@@ -1,0 +1,50 @@
+[
+  {
+    "source": "colab-day-1-pyhton-basics-v3-0-students-version",
+    "file": "Day_1_Pyhton_Basics_v3_0_students_version.ipynb",
+    "target": "notebooks/colab-day-1-pyhton-basics-v3-0-students-version/Day_1_Pyhton_Basics_v3_0_students_version.ipynb",
+    "sha256": "0ba39adbca249a50d64a223ac7e78e72c9fec0ba045cd150c7871781f1e770fc"
+  },
+  {
+    "source": "colab-day-6",
+    "file": "Day-6.ipynb",
+    "target": "notebooks/colab-day-6/Day-6.ipynb",
+    "sha256": "d67c0b1d1d3449ac271f1fa92d07c4ed7e779c84f1339f14de7ae4e543734f93"
+  },
+  {
+    "source": "colab-day-7",
+    "file": "Day-7.ipynb",
+    "target": "notebooks/colab-day-7/Day-7.ipynb",
+    "sha256": "cc4a125d286a3d9bcdfd82a51d06cbbcfc656a13fa934e066693f28a1b0dc16a"
+  },
+  {
+    "source": "colab-day-8-task-1",
+    "file": "Day-8-Task-1.ipynb",
+    "target": "notebooks/colab-day-8-task-1/Day-8-Task-1.ipynb",
+    "sha256": "cdb0a4e9d1eb21d63235f77867b8335deb7aadd01302049d60ea8ddd4d9e5676"
+  },
+  {
+    "source": "colab-day-8-task-2",
+    "file": "Day-8-Task-2.ipynb",
+    "target": "notebooks/colab-day-8-task-2/Day-8-Task-2.ipynb",
+    "sha256": "ba4c7da443bc60e27459df30ad579c7542692bf0658418cb4a4cb296a5139d2f"
+  },
+  {
+    "source": "colab-day2",
+    "file": "DAY2.ipynb",
+    "target": "notebooks/colab-day2/DAY2.ipynb",
+    "sha256": "7eee1e9e2ccce4687bfc6e3a5a318c0ec6ada9b52ca29a49544b9f515ffc9594"
+  },
+  {
+    "source": "colab-day8-3",
+    "file": "Day8-3.ipynb",
+    "target": "notebooks/colab-day8-3/Day8-3.ipynb",
+    "sha256": "46eafe8dfc5ce7e40eba9b1e82bec93c7611723c7c0ca2c3bd38a5a615395273"
+  },
+  {
+    "source": "colab-day9-1",
+    "file": "Day9-1.ipynb",
+    "target": "notebooks/colab-day9-1/Day9-1.ipynb",
+    "sha256": "2ef59cfb6082031b7df398d0b007f331c756e49a9914a20bf4f149773ce81531"
+  }
+]
